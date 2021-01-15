@@ -1,0 +1,235 @@
+{
+    "products": [
+      {
+        "$id": "1",
+        "ProductId": 1,
+        "SKU": "54-706-5480",
+        "SerialNumber": "BR0001",
+        "Price": 70.54,
+        "IsInactive": false,
+        "CategoryId": 1,
+        "StatusId": 1
+      },
+      {
+        "$id": "2",
+        "ProductId": 2,
+        "SKU": "VR05475",
+        "SerialNumber": "RI0011",
+        "Price": 247.33,
+        "IsInactive": false,
+        "CategoryId": 2,
+        "StatusId": 2
+      },
+      {
+        "$id": "3",
+        "ProductId": 3,
+        "SKU": "54-706-5480",
+        "SerialNumber": "BR0001",
+        "Price": 70.54,
+        "IsInactive": false,
+        "CategoryId": 1,
+        "StatusId": 1
+      },
+      {
+        "$id": "4",
+        "ProductId": 4,
+        "SKU": "VR05475",
+        "SerialNumber": "RI0011",
+        "Price": 247.33,
+        "IsInactive": false,
+        "CategoryId": 2,
+        "StatusId": 4
+      },
+      {
+        "$id": "5",
+        "ProductId": 5,
+        "SKU": "VP00062",
+        "SerialNumber": "PE0009",
+        "Price": 101.11,
+        "IsInactive": false,
+        "CategoryId": 3,
+        "StatusId": 2
+      },
+      {
+        "$id": "6",
+        "ProductId": 6,
+        "SKU": "VP00311",
+        "SerialNumber": "PE0010",
+        "Price": 101.23,
+        "IsInactive": false,
+        "CategoryId": 3,
+        "StatusId": 3
+      },
+      {
+        "$id": "7",
+        "ProductId": 7,
+        "SKU": "VR05218",
+        "SerialNumber": "RI0013",
+        "Price": 86.11,
+        "IsInactive": false,
+        "CategoryId": 2,
+        "StatusId": 4
+      },
+      {
+        "$id": "8",
+        "ProductId": 8,
+        "SKU": "VP00305",
+        "SerialNumber": "PE0012",
+        "Price": 86.22,
+        "IsInactive": false,
+        "CategoryId": 3,
+        "StatusId": 2
+      },
+      {
+        "$id": "9",
+        "ProductId": 9,
+        "SKU": "VR05271",
+        "SerialNumber": "RI0010",
+        "Price": 45.43,
+        "IsInactive": false,
+        "CategoryId": 2,
+        "StatusId": 5
+      },
+      {
+        "$id": "10",
+        "ProductId": 10,
+        "SKU": "VP01014",
+        "SerialNumber": "PE0016",
+        "Price": 220.33,
+        "IsInactive": false,
+        "CategoryId": 3,
+        "StatusId": 4
+      },
+      {
+        "$id": "11",
+        "ProductId": 11,
+        "SKU": "51-31-2014",
+        "SerialNumber": "RI0001",
+        "Price": 99.31,
+        "IsInactive": false,
+        "CategoryId": 2,
+        "StatusId": 1
+      },
+      {
+        "$id": "12",
+        "ProductId": 12,
+        "SKU": "VP05284",
+        "SerialNumber": "PE0008",
+        "Price": 220.12,
+        "IsInactive": false,
+        "CategoryId": 3,
+        "StatusId": 5
+      },
+      {
+        "$id": "13",
+        "ProductId": 13,
+        "SKU": "54-706-6252",
+        "SerialNumber": "EA0004",
+        "Price": 247.11,
+        "IsInactive": false,
+        "CategoryId": 5,
+        "StatusId": 1
+      },
+      {
+        "$id": "14",
+        "ProductId": 14,
+        "SKU": "54-706-3777",
+        "SerialNumber": "PE0003",
+        "Price": 220.01,
+        "IsInactive": false,
+        "CategoryId": 3,
+        "StatusId": 4
+      },
+      {
+        "$id": "15",
+        "ProductId": 15,
+        "SKU": "VP00503",
+        "SerialNumber": "PE0014",
+        "Price": 230.15,
+        "IsInactive": false,
+        "CategoryId": 3,
+        "StatusId": 3
+      },
+      {
+        "$id": "16",
+        "ProductId": 16,
+        "SKU": "VP00520",
+        "SerialNumber": "PE0011",
+        "Price": 247.57,
+        "IsInactive": false,
+        "CategoryId": 4,
+        "StatusId": 5
+      }
+     
+    ],
+    
+    
+    
+    "categories": [
+      {
+        "$id": "97",
+        "CategoryId": 1,
+        "Name": "Bracelets",
+        "IsInactive": false
+      },
+      {
+        "$id": "98",
+        "CategoryId": 2,
+        "Name": "Rings",
+        "IsInactive": false
+      },
+      {
+        "$id": "99",
+        "CategoryId": 3,
+        "Name": "Necklaces",
+        "IsInactive": false
+      },
+      {
+        "$id": "100",
+        "CategoryId": 4,
+        "Name": "Pendants",
+        "IsInactive": false
+      },
+      {
+        "$id": "101",
+        "CategoryId": 5,
+        "Name": "Earrings",
+        "IsInactive": false
+      }
+    ],
+   
+   
+    "statuses": [
+      {
+        "$id": "102",
+        "StatusId": 1,
+        "Name": "New Arrivals",
+        "IsInactive": false
+      },
+      {
+        "$id": "103",
+        "StatusId": 2,
+        "Name": "Hot Offers",
+        "IsInactive": false
+      },
+      {
+        "$id": "104",
+        "StatusId": 3,
+        "Name": "On Sale",
+        "IsInactive": false
+      },
+      {
+        "$id": "105",
+        "StatusId": 4,
+        "Name": "Specials",
+        "IsInactive": false
+      },
+      {
+        "$id": "106",
+        "StatusId": 5,
+        "Name": "Gifts",
+        "IsInactive": false
+      }
+    ]
+  
+  }

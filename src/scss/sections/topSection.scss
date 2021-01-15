@@ -1,0 +1,20 @@
+
+.top-container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    position:relative;
+}
+
+.top-section-items{
+    display:flex;
+    list-style-type:none;
+   
+    text-align:center;
+}
+
+// .top-section-items .navbar-li{
+//     display:inline-block;
+// }
